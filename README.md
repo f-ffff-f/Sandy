@@ -1,3 +1,3 @@
-# forkify Project
+# sandy Project
 
 Recipe application with custom recipe uploads.
